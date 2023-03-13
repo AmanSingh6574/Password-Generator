@@ -9,7 +9,7 @@
 <h2>How to use it : </h2>
 - Fork this project
 - Download the project using : 
-  ```
+  ``` bash
     git clone https://github.com/AmanSingh6574/Password-Generator file name
     
   ```
