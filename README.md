@@ -2,6 +2,7 @@
 <p>Generates the password automatically according to the given conditions such as include uppercase, lowercase letters, no of password required, etc. It also checks for the strength of the password generated and indicates it with green and red colors.</p>
 
 <h2>Features : </h2>
+
 - Generates a unique password.
 - Range of password can be max of 20 words.
 - Shows the strength of the password.
@@ -11,7 +12,9 @@
 - Fork this project.
 - Download the project using  
 
-``` git clone https://github.com/AmanSingh6574/Password-Generator file name ```
+``` 
+git clone https://github.com/AmanSingh6574/Password-Generator file name
+```
 
 - open live server.
 - generate your password.
