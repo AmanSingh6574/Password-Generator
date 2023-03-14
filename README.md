@@ -10,7 +10,7 @@
 <h2>How to use it : </h2>
 
 - Fork this project.
-- Download the project as a zip file use below command 
+- Download the project as a zip file or use below command 
 
 ``` 
 git clone https://github.com/AmanSingh6574/Password-Generator file name
