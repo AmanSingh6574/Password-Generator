@@ -19,6 +19,10 @@ git clone https://github.com/AmanSingh6574/Password-Generator file name
 - open live server.
 - generate your password.
 
+<h2>Generate the Password : </h2>
+
+- Click Me [live](https://gleeful-dolphin-629efe.netlify.app)
+
 <h2>Feedback : </h2>
 
 <p>If you have any feed or want to contribute feel free to contribute to this project.</p>
